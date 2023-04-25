@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-	Mciroservice Authentication
+	Microservice Authentication
 	<br>
 	<br>
 </h1>
